@@ -3,3 +3,4 @@ README.md
 package-lock.json
 hasura/
 entrypoint-initdb.d/
+.DS_Store
